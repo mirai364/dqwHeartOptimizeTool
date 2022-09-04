@@ -68,6 +68,8 @@ def calcRate(frame, color):
         tmp = int(frameColor)
         if tmp == 0:
             return 1.2
+        elif color == 0:
+            return 1.2
         elif tmp == color:
             return 1.2
     return 1.0
