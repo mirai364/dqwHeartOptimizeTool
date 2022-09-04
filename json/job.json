@@ -1,0 +1,130 @@
+[
+	{
+		"id": 1,
+		"rank": 0,
+		"name": "戦士",
+		"frame1": "0",
+		"frame2": "1",
+		"frame3": "1"
+	},
+	{
+		"id": 2,
+		"rank": 0,
+		"name": "魔法使い",
+		"frame1": "0",
+		"frame2": "2",
+		"frame3": "2"
+	},
+	{
+		"id": 3,
+		"rank": 0,
+		"name": "僧侶",
+		"frame1": "0",
+		"frame2": "3",
+		"frame3": "3"
+	},
+	{
+		"id": 4,
+		"rank": 0,
+		"name": "武闘家",
+		"frame1": "0",
+		"frame2": "4",
+		"frame3": "4"
+	},
+	{
+		"id": 5,
+		"rank": 0,
+		"name": "盗賊",
+		"frame1": "0",
+		"frame2": "5",
+		"frame3": "5"
+	},
+	{
+		"id": 6,
+		"rank": 0,
+		"name": "遊び人",
+		"frame1": "0",
+		"frame2": "5",
+		"frame3": "3"
+	},
+	{
+		"id": 7,
+		"rank": 0,
+		"name": "踊り子",
+		"frame1": "0",
+		"frame2": "5",
+		"frame3": "2"
+	},
+	{
+		"id": 11,
+		"rank": 1,
+		"name": "バトルマスター",
+		"frame1": "0",
+		"frame2": "4_1",
+		"frame3": "4",
+		"frame4": "4"
+	},
+	{
+		"id": 12,
+		"rank": 1,
+		"name": "賢者",
+		"frame1": "0",
+		"frame2": "2_3",
+		"frame3": "2_3",
+		"frame4": "2_3"
+	},
+	{
+		"id": 13,
+		"rank": 1,
+		"name": "レンジャー",
+		"frame1": "0",
+		"frame2": "4_5",
+		"frame3": "5",
+		"frame4": "5"
+	},
+	{
+		"id": 14,
+		"rank": 1,
+		"name": "魔法戦士",
+		"frame1": "0",
+		"frame2": "1_2",
+		"frame3": "1_2",
+		"frame4": "1_2"
+	},
+	{
+		"id": 15,
+		"rank": 1,
+		"name": "パラディン",
+		"frame1": "0",
+		"frame2": "1_3",
+		"frame3": "1",
+		"frame4": "1"
+	},
+	{
+		"id": 16,
+		"rank": 1,
+		"name": "スーパースター",
+		"frame1": "0",
+		"frame2": "5_3",
+		"frame3": "5",
+		"frame4": "3"
+	},
+	{
+		"id": 16,
+		"rank": 1,
+		"name": "海賊",
+		"frame1": "0",
+		"frame2": "1_5",
+		"frame3": "1",
+		"frame4": "5"
+	},
+	{
+		"id": 17,
+		"rank": 1,
+		"name": "まものマスター",
+		"frame1": "0",
+		"frame2": "0",
+		"frame3": "5_2",
+		"frame4": "5_2"
+	}
+]
